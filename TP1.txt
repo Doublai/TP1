@@ -1,1 +1,16 @@
 This is a test.
+
+Google.com IP : 172.217.13.206
+w3.uqo.ca IP : 132.213.9.106
+www.wikipedia.org IP : 208.80.154.224
+8.8.8.8 (ipinfo):   "ip": "8.8.8.8",
+                    "hostname": "google-public-dns-a.google.com",
+                    "city": "Mountain View",
+                    "region": "California",
+                    "country": "US",
+                    "loc": "37.3860,-122.0840",
+                    "postal": "94035",
+                    "phone": "650",
+                    "org": "AS15169 Google LLC"
+
+Google Public DNS (8.8.8.8) est un service de Google qui consiste à offrir des serveurs DNS récursifs aux utilisateurs d'Internet.
